@@ -28,7 +28,7 @@
     font-size: 19px;
   
   }
-  
+
   .mary{
     color: goldenrod;
     font-size: 19px;
@@ -46,10 +46,9 @@
   tr:nth-child(even) {
     background-color: darkgreen;
   }
-  h6{
-    color: violet;
-  }
-  
+ h5{
+    color: blueviolet;
+ }
   
   
   
