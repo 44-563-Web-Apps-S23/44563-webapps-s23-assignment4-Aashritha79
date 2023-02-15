@@ -29,4 +29,11 @@
     color: yellow;
     font-size: 19px;
   }
+table, th, td {
+    border: 1px solid;
+    color: darkblue;
+    text-align: center;
+    row-gap: 2px;
+  }
+
 
