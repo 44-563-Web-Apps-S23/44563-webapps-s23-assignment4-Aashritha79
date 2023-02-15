@@ -29,11 +29,15 @@
     color: yellow;
     font-size: 19px;
   }
-table, th, td {
+  table, th, td {
     border: 1px solid;
     border-collapse: collapse;
     color: darkblue;
     text-align: center;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
     
   }
 
