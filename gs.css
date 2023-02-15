@@ -1,33 +1,34 @@
 
-  .speech{
+.speech{
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-
+  
   }
   .direction{
     color: red;
     font-size: 10px;
     font-family: 'Times New Roman', Times, serif;
     background-color: aqua;
-
+  
   }
   .name{
     font-size: 18px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
-
+  
   }
- .direction :hover{
+  .direction :hover{
     background-color: cadetblue;
     color: black;
-
+  
   }
   .aunt{
     color: maroon;
     font-size: 19px;
-
+  
   }
+  
   .mary{
     color: goldenrod;
     font-size: 19px;
@@ -40,7 +41,7 @@
     padding: 40px;
   
   
-
+  
   }
   tr:nth-child(even) {
     background-color: darkgreen;
@@ -48,4 +49,9 @@
   h6{
     color: violet;
   }
-
+  
+  
+  
+  
+  
+  
