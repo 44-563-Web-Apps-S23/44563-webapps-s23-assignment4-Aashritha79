@@ -49,6 +49,16 @@
  h5{
     color: blueviolet;
  }
+ .aunt:hover{
+  text-shadow: 1px 1px 1px indigo;
+  border: darkblue;
+  background-color: beige;
+ }
+ .mary:hover{
+  text-shadow: 1px 1px 1px lightblue;
+  border: brown;
+  background-color: lightcoral;
+ }
   
   
   
