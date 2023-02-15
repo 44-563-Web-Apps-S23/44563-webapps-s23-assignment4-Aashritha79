@@ -1,18 +1,21 @@
 
   .speech{
-    font-size: 15px;
+    font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 
   }
   .direction{
-    color: rgb(129, 129, 152);
+    color: red;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
 
   }
   .name{
     font-size: 18px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: black;
+   
 
   }
  .direction :hover{
@@ -21,12 +24,28 @@
 
   }
   .aunt{
-    color: pink;
+    color: maroon;
     font-size: 19px;
 
   }
-  .MARY{
-    color: yellow;
+  .mary{
+    color: goldenrod;
     font-size: 19px;
+  }
+  table, th, td {
+    border: 1px solid;
+    color: magenta;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+  
+  
+
+  }
+  tr:nth-child(even) {
+    background-color: darkgreen;
+  }
+  h6{
+    color: violet;
   }
 
