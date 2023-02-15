@@ -31,9 +31,10 @@
   }
 table, th, td {
     border: 1px solid;
+    border-collapse: collapse;
     color: darkblue;
     text-align: center;
-    row-gap: 2px;
+    
   }
 
 
