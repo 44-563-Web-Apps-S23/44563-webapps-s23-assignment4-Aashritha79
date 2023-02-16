@@ -51,7 +51,7 @@
  }
  .aunt:hover{
   text-shadow: 1px 1px 1px indigo;
-  border: darkblue;
+  border: 2px solid darkblue;
   background-color: beige;
  }
  .mary:hover{
@@ -59,6 +59,19 @@
   border: brown;
   background-color: lightcoral;
  }
+ ul.navbar-horizontal{
+  display:flex;
+   
+}
+ul li{
+  margin: 10px;
+  padding: 20px;
+  list-style: none;
+}
+li a{
+  text-decoration: none;
+  background-color: lightgreen;
+}
   
   
   
